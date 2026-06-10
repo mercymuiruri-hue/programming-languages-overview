@@ -3,10 +3,10 @@
 *Java* is a powerful, object-oriented programming language known for its portability and enterprise applications.
 
 ##Key Characteristics
-- **Write once, run anywhere**:Java code runs on any platform with the Java Virtual Machine (JVM).
-- **Object-oriented**: Promotes clean code structure and reusability.
-- **Strong typing**: Catches errors at compile time.
-- **Robust**: Widely used in enterprise and large-scale applications.
+- Write once, run anywhere:Java code runs on any platform with the Java Virtual Machine (JVM).
+- Object-oriented: Promotes clean code structure and reusability.
+- Strong typing: Catches errors at compile time.
+- Robust: Widely used in enterprise and large-scale applications.
 
 ##Why Students Should Use It
 - Foundation for understanding OOP concepts
