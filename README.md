@@ -17,6 +17,7 @@ Python is a high-level, interpreted programming language known for its exception
 
 ## JavaScript
 *Contributed by: Ashley Indakwa*
+
 ### Overview
 JavaScript is a programming language used to make web pages interactive. It is one of the core technologies of the web, along with HTML and CSS. JavaScript runs in web browsers and can also be used on servers using Node.js.
 
