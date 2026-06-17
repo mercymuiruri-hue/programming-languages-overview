@@ -1,3 +1,18 @@
+# Programming Languages Overview
+
+### Contributors
+* **Mercy Muiruri** (Python)
+* **Ashley Indakwa** (JavaScript)
+* **Ninjago618** (Java)
+
+---
+
+## Table of Contents
+- [Python](#python)
+- [JavaScript](#javascript)
+- [Java](#java)
+
+---
 ## Python
 *Contributed by: Mercy Muiruri*
 ### Overview
