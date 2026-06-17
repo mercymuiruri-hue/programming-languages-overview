@@ -49,8 +49,9 @@ JavaScript is a programming language used to make web pages interactive. It is o
 Learn more: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 
-## Java
+##Java
 *Contributed by: Ninjago618
+
 ###Overview
 
 *Java* is a powerful, object-oriented programming language known for its portability and enterprise applications.
