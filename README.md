@@ -47,3 +47,26 @@ JavaScript is a programming language used to make web pages interactive. It is o
 - Mobile app development (using frameworks like React Native)
 
 Learn more: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+
+## Java
+*Contributed by: Ninjago618
+###Overview
+
+*Java* is a powerful, object-oriented programming language known for its portability and enterprise applications.
+
+##Key Characteristics
+- Write once, run anywhere:Java code runs on any platform with the Java Virtual Machine (JVM).
+- Object-oriented: Promotes clean code structure and reusability.
+- Strong typing: Catches errors at compile time.
+- Robust: Widely used in enterprise and large-scale applications.
+
+##Why Students Should Use It
+- Foundation for understanding OOP concepts
+- Essential for Android app development
+- Used extensively in enterprise software
+- Strong job market for Java developers
+
+## How to Get Started
+1. Download the Java Development Kit (JDK) .
+2. Install a code editor
