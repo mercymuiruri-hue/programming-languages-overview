@@ -1,14 +1,13 @@
 ## Python
 *Contributed by: Mercy Muiruri*
-
 ### Overview
-Python is a high-level, interpreted programming language known for its exceptional readability and clean syntax. 
+Python is a high-level, interpreted programming language known for its exceptional readability and clean syntax.
 
 ### Key Features
 * **Simple & Readable Syntax:** Python uses clean, English-like syntax and relies on clean indentation rather than curly braces `{}`  
 * **Interpreted Language:** Code is executed line-by-line, which simplifies debuggi and eliminates the need for a separate compilation step before running programs.
 * **Dynamically Typed:** You do not need to explicitly declare variable types (like `int` or `string`) when writing code; Python determines the type automatically at runtime
-
+  
 ### Common Use Cases
 * **Data Science & Machine Learning:** Python is the industry standard for AI, data analysis, and predictive modeling.
 * **Web Development:** Powering the back-end of massive platforms (like Instagram and Spotify) using robust web frameworks like Django, Flask, and FastAPI.
